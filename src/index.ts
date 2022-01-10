@@ -3,4 +3,4 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
-new App();
+new App(true);
